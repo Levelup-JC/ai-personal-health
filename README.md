@@ -39,7 +39,7 @@
 ```text
 ai-personal-health/
 ├── README.md
-├── LICENSE                 # MIT，待 Owner 确认
+├── LICENSE                 # MIT
 ├── .env.example
 ├── .gitignore
 ├── docs/
@@ -51,7 +51,7 @@ ai-personal-health/
 ├── agents/README.md
 ├── examples/synthetic/     # SYNTHETIC 样例
 └── .github/assets/
-    └── readme-cover.png    # 封面占位（待补 1280×640）
+    └── readme-cover.png    # 1280×640
 ```
 
 ## 文档与正本
@@ -93,6 +93,6 @@ ai-personal-health/
 
 ## 许可
 
-MIT License（见 [`LICENSE`](./LICENSE)）。**草稿待 Owner 确认后**再打首个正式 release 标签。
+MIT License（见 [`LICENSE`](./LICENSE)）。
 
 使用本项目即表示你理解：输出仅为 wellness 信息，**不是**医疗建议或诊断。
