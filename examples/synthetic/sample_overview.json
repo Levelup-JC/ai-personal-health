@@ -1,0 +1,16 @@
+{
+  "_comment": "SYNTHETIC — not real user data",
+  "meta": {
+    "fetched_at": "2026-11-04T12:00:00+08:00",
+    "tz": "Asia/Shanghai",
+    "today": "2026-11-04"
+  },
+  "rings": {
+    "recovery": null,
+    "day_strain": null,
+    "sleep_performance": null
+  },
+  "notes": [
+    "SYNTHETIC placeholder for CI/docs; replace with generator later"
+  ]
+}
