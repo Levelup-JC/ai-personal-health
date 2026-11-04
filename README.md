@@ -3,7 +3,7 @@
 [![visibility](https://img.shields.io/badge/visibility-public-2C53E3)](https://github.com/Levelup-JC/ai-personal-health)
 [![status](https://img.shields.io/badge/status-wip-1D8ACF)](https://github.com/Levelup-JC/ai-personal-health)
 [![stack](https://img.shields.io/badge/stack-AI%20orchestration%20%2B%20MCP-2C53E3)](./docs/SOLUTION.md)
-[![license](https://img.shields.io/badge/license-MIT%20draft-lightgrey)](./LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-2C53E3)](./LICENSE)
 
 <p align="center">
   <img src=".github/assets/readme-cover.png" alt="ai-personal-health cover" width="100%" />
@@ -39,7 +39,7 @@
 ```text
 ai-personal-health/
 ├── README.md
-├── LICENSE                 # MIT 草稿，待 Owner 确认
+├── LICENSE                 # MIT，待 Owner 确认
 ├── .env.example
 ├── .gitignore
 ├── docs/
